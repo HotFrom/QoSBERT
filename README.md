@@ -86,9 +86,14 @@ nohup python src/run.py \
 If you find this repo useful, please cite:
 
 @article{wang2025qosbert,
-  title     = {QoSBERT: An Uncertainty-Aware Approach Based on Pre-trained Language Models for Service Quality Prediction},
-  author    = {Wang, Ziliang and Zhang, Xiaohong and Li, Ze Shi and Yan, Meng},
-  journal   = {IEEE Transactions on Services Computing},
-  year      = {2025},
-  note      = {Under review}
+  title   = {QoSBERT: An Uncertainty-Aware Approach Based on Pre-trained Language Models for Service Quality Prediction},
+  author  = {Wang, Ziliang and Zhang, Xiaohong and Li, Ze Shi and Yan, Meng},
+  journal = {IEEE Transactions on Services Computing},
+  year    = {2025},
+  volume  = {18},
+  number  = {6},
+  pages   = {4096--4108},
+  doi     = {10.1109/TSC.2025.3620138}
 }
+
+pdf:https://drive.google.com/file/d/1HE4nF_sYEWx8WSvFxedx8TMbVWy6higK/view?usp=drive_link
